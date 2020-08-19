@@ -1,0 +1,12 @@
+{
+  "name": "azureExample",
+  "displayName": "azureExample",
+  "expo": {
+    "name": "azureExample",
+    "slug": "azureExample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
